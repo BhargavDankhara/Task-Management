@@ -1,4 +1,5 @@
 import express from "express";
+import cookieParser from "cookie-parser";
 
 import authRoutes from "./routes/auth.route.js";
 import taskRoutes from "./routes/task.route.js";
@@ -11,6 +12,7 @@ const app = express();
 const PORT = ENV_CONGIG.PORT;
 
 app.use(express.json());
+app.use(cookieParser());
 
 app.use("/api/auth", authRoutes); //user route
 app.use("/api/auth", taskRoutes); //task route
