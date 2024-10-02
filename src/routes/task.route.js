@@ -3,6 +3,6 @@ import { task } from "../controllers/task.controller.js";
 
 const router = express.Router();
 
-router.get("/task", task);
+router.post("/task", task);
 
 export default router;

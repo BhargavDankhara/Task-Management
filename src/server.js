@@ -10,6 +10,8 @@ const app = express();
 // ENV_CONGIG.PORT is set in.env file
 const PORT = ENV_CONGIG.PORT;
 
+app.use(express.json());
+
 app.use("/api/auth", authRoutes); //user route
 app.use("/api/auth", taskRoutes); //task route
 
