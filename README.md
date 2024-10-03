@@ -1,5 +1,4 @@
 ﻿# Task-Management
-# Task Management Web App
 
 A task management application built with **React**, styled using **Tailwind CSS**, for components.
 
