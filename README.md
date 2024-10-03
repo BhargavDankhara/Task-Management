@@ -26,10 +26,10 @@ Make sure you have **Node.js** and **npm** installed.
 
 ## Setup .env
 
--- **MONGO_URI=
--- **PORT=
--- **JWT_SECRET
--- **NODE_ENV=
+-- **MONGO_URI**=
+-- **PORT**=
+-- **JWT_SECRET**=
+-- **NODE_ENV=**
 
 ## AIP testing in POSTMAN
 
