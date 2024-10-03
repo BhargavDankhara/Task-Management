@@ -1,7 +1,7 @@
 ﻿# Task-Management
 # Task Management Web App
 
-A task management application built with **React**, styled using **Tailwind CSS**, and utilizing **AsertinityUI** for components.
+A task management application built with **React**, styled using **Tailwind CSS**, for components.
 
 ---
 
@@ -19,7 +19,6 @@ A task management application built with **React**, styled using **Tailwind CSS*
 
 - **React**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
-- **AsertinityUI**: React component library for building modern interfaces.
 - **MongoDB**: NoSQL database for storing tasks and users.
 - **Express**: Backend framework for API routes.
 
@@ -29,8 +28,9 @@ A task management application built with **React**, styled using **Tailwind CSS*
 
 Make sure you have **Node.js** and **npm** installed.
 
-### Installation
+## Setup .env
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/task-manager-app.git
+-- MONGO_URI=
+--PORT=
+--JWT_SECRET
+--NODE_ENV=
