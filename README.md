@@ -36,4 +36,12 @@ Make sure you have **Node.js** and **npm** installed.
 --NODE_ENV=
 
 
-![Task List](./assets/task-ss/create.png)
+![create](https://github.com/user-attachments/assets/6f0956b0-be27-4e09-94a9-029bf44fcc89)
+![update](https://github.com/user-attachments/assets/191b83be-b0cd-483b-abec-c50428cca5f9)
+![signup](https://github.com/user-attachments/assets/d1ddc8b1-d22a-44b0-b100-79fccb9c4323)
+![shorting-date](https://github.com/user-attachments/assets/ca7149c8-1869-4d4f-bb58-074a2582cb71)
+![logout](https://github.com/user-attachments/assets/051e6e96-0bbf-471a-bbe8-306b1444d920)
+![login](https://github.com/user-attachments/assets/048762f6-d28e-42d4-b601-09ea0ab35bde)
+![filter-status](https://github.com/user-attachments/assets/189f58c9-0159-4071-a881-7fee7cdc7536)
+![delete](https://github.com/user-attachments/assets/b6d37de1-c738-4d11-91c9-41481146e7f8)
+
