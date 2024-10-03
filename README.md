@@ -22,19 +22,16 @@ A task management application built with **React**, styled using **Tailwind CSS*
 - **MongoDB**: NoSQL database for storing tasks and users.
 - **Express**: Backend framework for API routes.
 
-## Getting Started
-
-### Prerequisites
-
 Make sure you have **Node.js** and **npm** installed.
 
 ## Setup .env
 
--- MONGO_URI=
---PORT=
---JWT_SECRET
---NODE_ENV=
+-- **MONGO_URI=
+-- **PORT=
+-- **JWT_SECRET
+-- **NODE_ENV=
 
+## AIP testing in POSTMAN
 
 ![create](https://github.com/user-attachments/assets/6f0956b0-be27-4e09-94a9-029bf44fcc89)
 ![update](https://github.com/user-attachments/assets/191b83be-b0cd-483b-abec-c50428cca5f9)
