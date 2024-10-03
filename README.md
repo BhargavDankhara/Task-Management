@@ -5,8 +5,6 @@ A task management application built with **React**, styled using **Tailwind CSS*
 
 ---
 
-![Task Manager UI](./assets/task-manager-ui.png)
-
 ## Features
 
 - **Task List**: View all tasks with status, priority, and due dates.
@@ -34,6 +32,7 @@ Make sure you have **Node.js** and **npm** installed.
 
 ## AIP testing in POSTMAN
 
+# Create
 ![create](https://github.com/user-attachments/assets/6f0956b0-be27-4e09-94a9-029bf44fcc89)
 ![update](https://github.com/user-attachments/assets/191b83be-b0cd-483b-abec-c50428cca5f9)
 ![signup](https://github.com/user-attachments/assets/d1ddc8b1-d22a-44b0-b100-79fccb9c4323)
