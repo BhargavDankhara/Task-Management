@@ -27,6 +27,7 @@ Make sure you have **Node.js** and **npm** installed.
 ## Setup .env
 
 - **Task List**: View all tasks with status, priority, and due dates.
+- - **Task List**: View all tasks with status, priority, and due dates.
 -- **MONGO_URI**=
 -- **PORT**=
 -- **JWT_SECRET**=
