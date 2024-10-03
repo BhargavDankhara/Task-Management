@@ -27,10 +27,9 @@ Make sure you have **Node.js** and **npm** installed.
 ## Setup .env
 
 - **MONGO_UR=**
-- - **Task List**: View all tasks with status, priority, and due dates.
-- **MONGO_URI**=
-- **PORT**=
-- **JWT_SECRET**=
+- **MONGO_URI=**
+- **PORT=**
+- **JWT_SECRET=**
 - **NODE_ENV=**
 
 ## AIP testing in POSTMAN
