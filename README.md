@@ -36,4 +36,4 @@ Make sure you have **Node.js** and **npm** installed.
 --NODE_ENV=
 
 
-![Task List](./frontend/src/assets/task-ss/create.png)
+![Task List](./assets/task-ss/create.png)
